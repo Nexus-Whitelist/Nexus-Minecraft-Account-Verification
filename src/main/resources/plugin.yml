@@ -1,0 +1,7 @@
+name: Minecraft Account Verification
+version: ${project.version}
+main: com.nexuswhitelist.verification.Verification
+api-version: 1.13
+authors: [Zapdos26]
+description: Minecraft Account Verification for Nexus Whitelist
+website: https://nexuswhitelist.com
